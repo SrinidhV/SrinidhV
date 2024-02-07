@@ -17,8 +17,6 @@ I'm always open to collaborating on projects and sharing insights with fellow da
 
 Thank you for visiting my profile. Let's explore the possibilities of data together!
 
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>
-
-
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>  <img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>  <img width="60" height="60" src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-data-science-flat-flat-juicy-fish.png" alt="Algorithm"/>
 
 
