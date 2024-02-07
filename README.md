@@ -3,8 +3,11 @@
 I'm a Data Scientist with a zest for unraveling complex data and turning it into actionable insights. My academic journey in Business Analytics and Computer Science has armed me with a robust analytical toolkit. At the intersection of data and education, I empower data-driven decision-making and foster learning through technology.
 
 🔍 **Currently Exploring:** Data visualization with Python, Power BI, and Tableau.
+
 🤖 **On My Learning Path:** Advancing my mastery in Machine Learning and AI technologies.
+
 📊 **Professional Stint:** From teaching assistant to business and data analysis, my experiences converge to make data meaningful and education impactful.
+
 🔧 **Tools of the Trade:** Python, SQL, R, Machine Learning, and more.
 
 Let's connect and make data talk!
