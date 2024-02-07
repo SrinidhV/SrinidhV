@@ -17,6 +17,7 @@ I'm always open to collaborating on projects and sharing insights with fellow da
 
 Thank you for visiting my profile. Let's explore the possibilities of data together!
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>
+
 
 
