@@ -2,6 +2,8 @@
 
 I'm a senior AI/ML Engineer with over 10 years of experience architecting, building, and deploying production-grade AI solutions. I'm a hands-on engineer who turns complex research (like Agentic AI and RAG) into reliable, high-performance applications.
 
+I have a passion for mentoring and teaching students get into AI Space by introducing them to Beginner ML Workflows and problems. 
+
 🔍 Core Expertise: Architecting multimodal models (PyTorch/TensorFlow), deploying MLOps pipelines (Kubernetes/MLflow), and fine-tuning LLMs (QLoRA).
 
 🤖 Domain Focus: Building high-stakes AI for FinTech (fraud, risk) and other high-compliance environments.
@@ -18,7 +20,6 @@ Let's Connect:
 
     📫 How to reach me: srinidh.vu@gmail.com
 
-    👨‍💻 My GitHub: https://github.com/SrinidhVudityala (You'll need to create this if it's not your actual GitHub)
 
 Thank you for visiting my profile.
 
