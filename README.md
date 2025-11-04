@@ -1,4 +1,4 @@
-'### Hi there 👋, I'm Srinidh Vudityala
+### Hi there 👋, I'm Srinidh Vudityala
 
 I'm a senior AI/ML Engineer with over 10 years of experience architecting, building, and deploying production-grade AI solutions. I'm a hands-on engineer who turns complex research (like Agentic AI and RAG) into reliable, high-performance applications.
 
@@ -23,4 +23,4 @@ Let's Connect:
 
 Thank you for visiting my profile.
 
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="96" height="96" src="https://img.icons8.com/fluency/96/kubernets.png" alt="Kubernetes"/> <img width="96" height="96" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS"/> <img width="96" height="96" src="https://img.icons8.com/color/96/azure-1.png" alt="Azure"/> <img width="96" height="96" src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow"/> <img width="96" height="96" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-brain-artificial-intelligence-flatart-icons-flat-flatarticons.png" alt="AI"/> '
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="96" height="96" src="https://img.icons8.com/fluency/96/kubernets.png" alt="Kubernetes"/> <img width="96" height="96" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS"/> <img width="96" height="96" src="https://img.icons8.com/color/96/azure-1.png" alt="Azure"/> <img width="96" height="96" src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow"/> <img width="96" height="96" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-brain-artificial-intelligence-flatart-icons-flat-flatarticons.png" alt="AI"/> 
