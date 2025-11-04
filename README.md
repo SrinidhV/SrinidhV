@@ -1,25 +1,25 @@
-### Hi there 👋, I'm Srinidh Vudityala
+'### Hi there 👋, I'm Srinidh Vudityala
 
-I'm a Data Scientist with a zest for unraveling complex data and turning it into actionable insights. My academic journey in Business Analytics and Computer Science has armed me with a robust analytical toolkit. At the intersection of data and education, I empower data-driven decision-making and foster learning through technology.
+I'm a senior AI/ML Engineer with over 10 years of experience architecting, building, and deploying production-grade AI solutions. I'm a hands-on engineer who turns complex research (like Agentic AI and RAG) into reliable, high-performance applications.
 
-🔍 **Currently Exploring:** Data visualization with Python, Power BI, and Tableau.
+🔍 Core Expertise: Architecting multimodal models (PyTorch/TensorFlow), deploying MLOps pipelines (Kubernetes/MLflow), and fine-tuning LLMs (QLoRA).
 
-🤖 **On My Learning Path:** Advancing my mastery in Machine Learning and AI technologies.
+🤖 Domain Focus: Building high-stakes AI for FinTech (fraud, risk) and other high-compliance environments.
 
-📊 **Professional Stint:** From teaching assistant to business and data analysis, my experiences converge to make data meaningful and education impactful.
+📊 Production Experience: My work at Discover and American Express involved building real-time fraud detection systems, architecting agentic RAG platforms, and deploying services that handle millions of daily inferences.
 
-🔧 **Tools of the Trade:** Python, SQL, R, Machine Learning, and more.
+🔧 Tools of the Trade: Python, PyTorch, TensorFlow, LangGraph, CrewAI, RAG, Kubernetes, Databricks, Spark, Kafka, AWS, Azure, and more.
 
-Let's connect and make data talk!
+Let's connect and build.
 
-I'm always open to collaborating on projects and sharing insights with fellow data enthusiasts. Feel free to reach out if you're interested in working together or if you have any questions!
+I'm currently open to senior-level, hands-on contract (C2C) opportunities. Feel free to reach out if you're tackling an interesting engineering challenge.
 
-**Let's Connect:**
-- 📫 How to reach me: [vudityalas@gmail.com]
-- 👨‍💻 All of my projects are available here on GitHub.
+Let's Connect:
 
-Thank you for visiting my profile. Let's explore the possibilities of data together!
+    📫 How to reach me: srinidh.vu@gmail.com
 
-<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/>  <img width="60" height="60" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL"/>  <img width="60" height="60" src="https://img.icons8.com/external-flat-juicy-fish/60/external-algorithm-data-science-flat-flat-juicy-fish.png" alt="Algorithm"/>
+    👨‍💻 My GitHub: https://github.com/SrinidhVudityala (You'll need to create this if it's not your actual GitHub)
 
+Thank you for visiting my profile.
 
+<img width="100" height="100" src="https://img.icons8.com/clouds/100/python.png" alt="python"/> <img width="96" height="96" src="https://img.icons8.com/fluency/96/kubernets.png" alt="Kubernetes"/> <img width="96" height="96" src="https://img.icons8.com/color/96/amazon-web-services.png" alt="AWS"/> <img width="96" height="96" src="https://img.icons8.com/color/96/azure-1.png" alt="Azure"/> <img width="96" height="96" src="https://img.icons8.com/color/96/tensorflow.png" alt="TensorFlow"/> <img width="96" height="96" src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/96/external-brain-artificial-intelligence-flatart-icons-flat-flatarticons.png" alt="AI"/> '
